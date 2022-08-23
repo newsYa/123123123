@@ -1,0 +1,57 @@
+newmtl material_33
+       Ka 0.341176 0.792157 1 0.05
+       Kd 0.341176 0.792157 1 0.05
+       Ks 0 0 0 0.05
+
+newmtl material_28
+       Ka 0.588235 0.619608 0.627451 1
+       Kd 0.588235 0.619608 0.627451 1
+       Ks 0.828 0.828 0.828 1
+
+newmtl material_36
+       Ka 0.717647 0.529412 0.12549 1
+       Kd 0.717647 0.529412 0.12549 1
+       Ks 0 0 0 1
+
+newmtl material_34
+       Ka 0.588235 0.588235 0.588235 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       map_Kd image\054_jiashicang2.jpg
+
+newmtl material_27
+       Ka 0.588 0.588 0.588 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       map_Kd image\054_chuanti1.jpg
+
+newmtl material_32
+       Ka 0.588 0.588 0.588 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       map_Kd image\054_jiashicang4.jpg
+
+newmtl material_31
+       Ka 0.588 0.588 0.588 1
+       Kd 1 1 1 1
+       Ks 0.405 0.405 0.405 1
+       map_Kd image\054_jiashicang1.jpg
+
+newmtl material_35
+       Ka 0.588 0.588 0.588 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       map_Kd image\054_jiashican3.jpg
+
+newmtl material_30
+       Ka 0.588 0.588 0.588 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       map_Kd image\054_chuant3.jpg
+
+newmtl material_29
+       Ka 0.588 0.588 0.588 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       map_Kd image\054_chuant2.jpg
+
